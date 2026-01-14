@@ -1,5 +1,3 @@
----
-
 ```md
 # User Authentication MERN Project
 
@@ -154,23 +152,5 @@ http://localhost:5173
 GitHub: [https://github.com/roshanmishra15](https://github.com/roshanmishra15)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-````
-
----
-
-## Next Step (Recommended)
-
-After pasting this README:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-````
 
 
